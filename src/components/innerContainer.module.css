@@ -1,0 +1,6 @@
+.innerContainer {
+  background-color: hsl(0, 0%, 100%);
+  flex: 1;
+  padding: 100px;
+  margin: 10px;
+}
